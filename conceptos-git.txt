@@ -1,0 +1,5 @@
+Repositorio: Es el lugar donde se guardan los proyectos y sus archivos usando de git, además también se guardan los cambios realzados en el proyecto.
+
+Commit: Es un comando utilizado en git bash para registrar los cambios realizados en un archivo.
+
+Push: Es un comando también utilizado en git bash que envía los cambios realizados hacia GitHub para que queden almacenados en linea.
